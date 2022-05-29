@@ -1,4 +1,4 @@
-import SidebarAdmin from '../components/Admin/SidebarAdmin';
+import SidebarAdmin from '../components/SidebarAdmin';
 
 export default function Home() {
   return (

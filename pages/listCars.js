@@ -1,4 +1,4 @@
-import SidebarListCars from '../components/Admin/SidebarListCars';
+import SidebarListCars from '../components/SidebarListCars';
 const listCar = () => {
     return(
         <>
